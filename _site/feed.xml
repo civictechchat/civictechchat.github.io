@@ -4,10 +4,10 @@
     <title>Civic Tech Chat</title>
     <description>Discussing breakthroughs in public service technology.
 </description>
-    <link>http://localhost:4000/paper-jekyll-theme/</link>
-    <atom:link href="http://localhost:4000/paper-jekyll-theme/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jan 2018 10:48:53 -0600</pubDate>
-    <lastBuildDate>Thu, 18 Jan 2018 10:48:53 -0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 18 Jan 2018 12:29:05 -0600</pubDate>
+    <lastBuildDate>Thu, 18 Jan 2018 12:29:05 -0600</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -85,8 +85,8 @@ rake preview
 &lt;p&gt;THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/paper-jekyll-theme/2017/07/quick-start</link>
-        <guid isPermaLink="true">http://localhost:4000/paper-jekyll-theme/2017/07/quick-start</guid>
+        <link>http://localhost:4000/2017/07/quick-start</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/quick-start</guid>
         
         <category>jekyll</category>
         
@@ -168,8 +168,8 @@ rake preview
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 20 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/paper-jekyll-theme/2017/07/code-highlighting</link>
-        <guid isPermaLink="true">http://localhost:4000/paper-jekyll-theme/2017/07/code-highlighting</guid>
+        <link>http://localhost:4000/2017/07/code-highlighting</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/code-highlighting</guid>
         
         <category>sample</category>
         
@@ -226,8 +226,8 @@ rake preview
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/paper-jekyll-theme/2017/01/readability</link>
-        <guid isPermaLink="true">http://localhost:4000/paper-jekyll-theme/2017/01/readability</guid>
+        <link>http://localhost:4000/2017/01/readability</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/readability</guid>
         
         <category>sample</category>
         
@@ -394,8 +394,8 @@ rake preview
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 15 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/paper-jekyll-theme/2016/08/style-test</link>
-        <guid isPermaLink="true">http://localhost:4000/paper-jekyll-theme/2016/08/style-test</guid>
+        <link>http://localhost:4000/2016/08/style-test</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/style-test</guid>
         
         <category>test,</category>
         
