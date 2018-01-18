@@ -18,5 +18,5 @@ This site is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https:/
 
 ## Connect
 
-- [Twitter](https://www.twitter.com/civictechtalks) for 🐦
+- [Twitter](https://www.twitter.com/civictechchat) for 🐦
 - [Facebook](https://www.facebook.com/) for 🕺
