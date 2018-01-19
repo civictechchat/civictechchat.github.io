@@ -15,4 +15,3 @@ Show off your projects here!
 
 # Talks
 - How to ????
-

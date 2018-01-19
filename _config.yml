@@ -5,8 +5,8 @@ description: >
 
 author: Civic Tech Chat
 email: info@civictech.chat
-twitter_username:
-github_username:
+twitter_username: civictechchat
+github_username: civictechchat
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://civictechchat.github.io/" # the base hostname & protocol for your site
