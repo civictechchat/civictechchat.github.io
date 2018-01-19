@@ -1,6 +1,6 @@
 ---
 layout: content
-title: About
+title: About 🤓
 permalink: /about/
 ---
 **Civic Tech Chat** is a monthly podcast covering the civic technology movement. Inspired by FDR's [Fireside Chats](https://en.wikipedia.org/wiki/Fireside_chats), we seek to raise awareness of the work being done by technologists around the world to build a public service infrastructure that works more efficiently and conveniently for all citizens.
