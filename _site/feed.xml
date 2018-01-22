@@ -4,25 +4,23 @@
     <title>Civic Tech Chat</title>
     <description>A podcast on breakthroughs in public service technology.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Jan 2018 17:53:44 -0600</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 17:53:44 -0600</lastBuildDate>
+    <link>https://civictechchat.github.io//</link>
+    <atom:link href="https://civictechchat.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 22 Jan 2018 17:59:53 -0600</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 17:59:53 -0600</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Launch 🚀</title>
-        <description>&lt;p&gt;Host &lt;a href=&quot;https://twitter.com/ryan_koch&quot;&gt;Ryan Koch&lt;/a&gt; introduces &lt;code class=&quot;highlighter-rouge&quot;&gt;Civic Tech Chat&lt;/code&gt; and outlines topics for the January podcast on public service technology.&lt;/p&gt;
+        <description>&lt;p&gt;Host &lt;a href=&quot;https://twitter.com/ryan_koch&quot;&gt;Ryan Koch&lt;/a&gt; introduces &lt;em&gt;Civic Tech Chat&lt;/em&gt; and outlines topics for the upcoming January podcast on public service technology.&lt;/p&gt;
 
-&lt;h3 id=&quot;music&quot;&gt;Music&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://freemusicarchive.org/music/Komiku/Poupis_incredible_adventures_/Komiku_-_Poupis_incredible_adventures__-_54_Escaping_like_Indiana_Jones&quot;&gt;Escaping like Indiana Jones by Komiku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/civictechchat/civictechchat.github.io/blob/master/assets/00_intro_final.ogg&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Thu, 18 Jan 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2018/01/intro</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/intro</guid>
+        <link>https://civictechchat.github.io//2018/01/intro</link>
+        <guid isPermaLink="true">https://civictechchat.github.io//2018/01/intro</guid>
         
         <category>civictech</category>
         
