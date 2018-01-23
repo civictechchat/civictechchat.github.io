@@ -12,7 +12,7 @@ Brought to you by [Ryan Koch](https://twitter.com/Ryan_Koch) and [Cyrus Sethna](
 ----
 
 ## The Website
-This site is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com). We use the [Paper](https://deadbeef.me/paper-jekyll-theme/) theme.
+This site is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com). We use the [Paper](https://deadbeef.me/paper-jekyll-theme/2017/07/quick-start) theme.
 
 ----
 
