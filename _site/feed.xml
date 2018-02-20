@@ -4,11 +4,38 @@
     <title>Civic Tech Chat</title>
     <description>A podcast on breakthroughs in public service technology.
 </description>
-    <link>https://civictechchat.github.io//</link>
-    <atom:link href="https://civictechchat.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jan 2018 09:21:50 -0600</pubDate>
-    <lastBuildDate>Thu, 25 Jan 2018 09:21:50 -0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Feb 2018 18:45:16 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2018 18:45:16 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>We the Technologists 🏛</title>
+        <description>&lt;p&gt;Our inaugural episode features a panel discussion with &lt;a href=&quot;https://twitter.com/kristil&quot;&gt;Kristi Leach&lt;/a&gt;, an independent Design Researcher and Information Architect, &lt;a href=&quot;https://twitter.com/tomdooner&quot;&gt;Tom Dooner&lt;/a&gt;, a Developer Evangelist for Code for America, and &lt;a href=&quot;https://twitter.com/c_sethna&quot;&gt;Cyrus Sethna&lt;/a&gt;, a Digital Services Expert with the United States Digital Service. We’ll talk about what Civic Tech is, where the movement stands, and how you can get involved.&lt;/p&gt;
+
+&lt;h3 id=&quot;web-resources-mentioned-in-the-episode&quot;&gt;Web Resources mentioned in the episode&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Code for America Brigade: &lt;a href=&quot;https://brigade.codeforamerica.org&quot;&gt;brigade.codeforamerica.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Code for America Public Interest Tech Job Board: &lt;a href=&quot;https://jobs.codeforamerica.org&quot;&gt;jobs.codeforamerica.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Open Uptown: &lt;a href=&quot;http://uptown.codes&quot;&gt;uptown.codes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
+</description>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/02/we-the-technologists</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/we-the-technologists</guid>
+        
+        <category>civictech</category>
+        
+        <category>episode</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Launch 🚀</title>
@@ -19,9 +46,9 @@
 
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
-        <pubDate>Thu, 18 Jan 2018 00:00:00 -0600</pubDate>
-        <link>https://civictechchat.github.io//2018/01/intro</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2018/01/intro</guid>
+        <pubDate>Thu, 18 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/01/intro</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/intro</guid>
         
         <category>civictech</category>
         
