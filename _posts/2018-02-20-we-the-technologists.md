@@ -11,11 +11,11 @@ Our inaugural episode features a panel discussion with [Kristi Leach](https://tw
 
 ### Web Resources mentioned in the episode
 
-- Code for America Brigade: [brigade.codeforamerica.org](https://brigade.codeforamerica.org)
-- Code for America Public Interest Tech Job Board: [jobs.codeforamerica.org](https://jobs.codeforamerica.org)
-- Open Uptown: [uptown.codes](http://uptown.codes)
+- *Code for America Brigade*: [brigade.codeforamerica.org](https://brigade.codeforamerica.org)
+- *Code for America Public Interest Tech Job Board*: [jobs.codeforamerica.org](https://jobs.codeforamerica.org)
+- *Open Uptown*: [uptown.codes](http://uptown.codes)
 - 💪🖥🇺🇸: [usds.gov](https://usds.gov)
-- Build With Not For: [buildwithnotfor.wordpress.com](https://buildwithnotfor.wordpress.com)
+- *Build With Not For*: [buildwithnotfor.wordpress.com](https://buildwithnotfor.wordpress.com)
 
 <iframe width="100%" height="75" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/402329829&amp;color=%23070707&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 <a href="https://soundcloud.com/user-227289754/s1e01-we-the-technologists" target="_blank">🎧 Listen</a>
