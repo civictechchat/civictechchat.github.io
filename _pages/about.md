@@ -19,4 +19,4 @@ This site is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https:/
 ## Links
 
 - [Twitter](https://www.twitter.com/civictechchat) 🐦
-- [Music we use](https://freemusicarchive.org) 🎧
+- [Music we use](https://freemusicarchive.org) 🎶
