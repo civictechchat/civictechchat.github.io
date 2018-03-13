@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Feb 2018 13:29:13 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Feb 2018 13:29:13 -0500</lastBuildDate>
+    <pubDate>Tue, 13 Mar 2018 09:36:58 -0400</pubDate>
+    <lastBuildDate>Tue, 13 Mar 2018 09:36:58 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Open Data in Chicago 🗂</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/tomschenkjr&quot;&gt;Tom Schenk, Jr.&lt;/a&gt;, Chicago’s Chief Data Officer, joins us to discuss the role of open data in civic tech. Our host questions Schenk on the virtues of the &lt;a href=&quot;https://data.cityofchicago.org/&quot;&gt;Chicago Data Portal&lt;/a&gt; and examines the role data plays in building a stronger, more transparent government.&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chicago Open Data Portal: &lt;a href=&quot;data.cityofchicago.org/&quot;&gt;data.cityofchicago.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chi Hack Night: &lt;a href=&quot;data.cityofchicago.org/&quot;&gt;chihacknight.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Open Uptown: &lt;a href=&quot;http://openuptown.us&quot;&gt;http://openuptown.us&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Executive Order: &lt;a href=&quot;https://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html&quot;&gt;https://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chicago Github: &lt;a href=&quot;https://github.com/chicago&quot;&gt;https://github.com/chicago&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chicago Python User Group: &lt;a href=&quot;http://www.chipy.org/&quot;&gt;http://www.chipy.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;OpenGrid: &lt;a href=&quot;https://chicago.opengrid.io/opengrid/&quot;&gt;https://chicago.opengrid.io/opengrid/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;WasMyCarTowed: &lt;a href=&quot;http://wasmycartowed.com&quot;&gt;http://wasmycartowed.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SweepAround: &lt;a href=&quot;https://sweeparound.us&quot;&gt;https://sweeparound.us&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sunlight Foundation: &lt;a href=&quot;sunlightfoundation.com/&quot;&gt;sunlightfoundation.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
+</description>
+        <pubDate>Tue, 13 Mar 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/03/open-data</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/open-data</guid>
+        
+        <category>civictech</category>
+        
+        <category>breakdown</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Breakdown: Open Data 📊</title>
