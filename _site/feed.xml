@@ -6,9 +6,37 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Mar 2018 14:00:57 -0400</pubDate>
-    <lastBuildDate>Tue, 13 Mar 2018 14:00:57 -0400</lastBuildDate>
+    <pubDate>Tue, 03 Apr 2018 23:09:18 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Apr 2018 23:09:18 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Innovation Teams 📡</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/aschrock&quot;&gt;Andrew Schrock&lt;/a&gt;, Communication Post Doctoral Fellow at Chapman University, joins us to converse about Innovation Teams and how they fit into the Civic Tech movement.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/424523718%3Fsecret_token%3Ds-ktGtG&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/s01ep03-innovation-teams/s-ktGtG&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Perspectives Innovation Teams, Mundane Innovation, and the Public Good : &lt;a href=&quot;https://www.epicpeople.org/innovation-teams-mundane-innovation-and-the-public-good/&quot;&gt;https://www.epicpeople.org/innovation-teams-mundane-innovation-and-the-public-good/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Guest Website: &lt;a href=&quot;http://aschrock.com/&quot;&gt;http://aschrock.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
+</description>
+        <pubDate>Tue, 03 Apr 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/04/innovation-teams</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/innovation-teams</guid>
+        
+        <category>civictech</category>
+        
+        <category>episode</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Open Data in Chicago 🗂</title>
@@ -19,8 +47,8 @@
 
 &lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Chicago Open Data Portal: &lt;a href=&quot;data.cityofchicago.org/&quot;&gt;data.cityofchicago.org/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Chi Hack Night: &lt;a href=&quot;data.cityofchicago.org/&quot;&gt;chihacknight.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chicago Open Data Portal: &lt;a href=&quot;http://data.cityofchicago.org/&quot;&gt;data.cityofchicago.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chi Hack Night: &lt;a href=&quot;https://chihacknight.org&quot;&gt;chihacknight.org/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Open Uptown: &lt;a href=&quot;http://openuptown.us&quot;&gt;http://openuptown.us&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Executive Order: &lt;a href=&quot;https://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html&quot;&gt;https://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Chicago Github: &lt;a href=&quot;https://github.com/chicago&quot;&gt;https://github.com/chicago&lt;/a&gt;&lt;/li&gt;
@@ -28,12 +56,12 @@
   &lt;li&gt;OpenGrid: &lt;a href=&quot;https://chicago.opengrid.io/opengrid/&quot;&gt;https://chicago.opengrid.io/opengrid/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;WasMyCarTowed: &lt;a href=&quot;http://wasmycartowed.com&quot;&gt;http://wasmycartowed.com&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;SweepAround: &lt;a href=&quot;https://sweeparound.us&quot;&gt;https://sweeparound.us&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sunlight Foundation: &lt;a href=&quot;sunlightfoundation.com/&quot;&gt;sunlightfoundation.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sunlight Foundation: &lt;a href=&quot;https://sunlightfoundation.com/&quot;&gt;sunlightfoundation.com/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
-        <pubDate>Tue, 13 Mar 2018 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 13 Mar 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018/03/open-data</link>
         <guid isPermaLink="true">http://localhost:4000/2018/03/open-data</guid>
         
@@ -67,7 +95,7 @@
 
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
-        <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
+        <pubDate>Wed, 28 Feb 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2018/02/breakdown-open-data</link>
         <guid isPermaLink="true">http://localhost:4000/2018/02/breakdown-open-data</guid>
         
@@ -99,7 +127,7 @@
 
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
-        <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2018/02/we-the-technologists</link>
         <guid isPermaLink="true">http://localhost:4000/2018/02/we-the-technologists</guid>
         
@@ -121,7 +149,7 @@
 
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
-        <pubDate>Thu, 18 Jan 2018 00:00:00 -0500</pubDate>
+        <pubDate>Thu, 18 Jan 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2018/01/intro</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/intro</guid>
         
