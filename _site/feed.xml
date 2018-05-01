@@ -4,11 +4,51 @@
     <title>Civic Tech Chat</title>
     <description>A podcast on breakthroughs in public service technology.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Apr 2018 00:58:19 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Apr 2018 00:58:19 -0500</lastBuildDate>
+    <link>https://civictechchat.github.io//</link>
+    <atom:link href="https://civictechchat.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 May 2018 01:24:22 -0500</pubDate>
+    <lastBuildDate>Tue, 01 May 2018 01:24:22 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Open Source Licenses 👩‍💻</title>
+        <description>&lt;p&gt;&lt;a href=&quot;twitter.com/dacresni&quot;&gt;Nehemiah Dacres&lt;/a&gt;, Open Source advocate and Captain of the OpenSTL Code for America joins us for a chat about Open Source licenses. We’ll learn about their varying types as well as why they can be useful for your projects.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/437675391&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/s01e05-open-source-licenses&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/music/listen?u=0#/ps/I2inksjzzzmbxhg5wbojr624doa&quot;&gt;📱 Listen on Google Music&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openstl.org/&quot;&gt;OpenSTL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.data.gov/&quot;&gt;Data.gov&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.gov/&quot;&gt;Code.gov&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/610026/alg…ality-worse/&quot;&gt;Technology Review Algorithms are actually making inequality worse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.org/licenses/category&quot;&gt;Open Source Initiative&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.catb.org/esr/writings/cathedral-bazaar/&quot;&gt;The Cathedral and the Bazaar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/437675391&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 01 May 2018 00:00:00 -0500</pubDate>
+        <link>https://civictechchat.github.io//2018/05/open-source-licenses</link>
+        <guid isPermaLink="true">https://civictechchat.github.io//2018/05/open-source-licenses</guid>
+        
+        <category>civictech</category>
+        
+        <category>episode</category>
+        
+        <category>open source</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Human Centered Design 👥</title>
@@ -31,8 +71,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/04/human-centered-design</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/human-centered-design</guid>
+        <link>https://civictechchat.github.io//2018/04/human-centered-design</link>
+        <guid isPermaLink="true">https://civictechchat.github.io//2018/04/human-centered-design</guid>
         
         <category>civictech</category>
         
@@ -61,8 +101,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Tue, 03 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/04/innovation-teams</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/innovation-teams</guid>
+        <link>https://civictechchat.github.io//2018/04/innovation-teams</link>
+        <guid isPermaLink="true">https://civictechchat.github.io//2018/04/innovation-teams</guid>
         
         <category>civictech</category>
         
@@ -97,8 +137,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Tue, 13 Mar 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/03/open-data</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/03/open-data</guid>
+        <link>https://civictechchat.github.io//2018/03/open-data</link>
+        <guid isPermaLink="true">https://civictechchat.github.io//2018/03/open-data</guid>
         
         <category>civictech</category>
         
@@ -131,8 +171,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Wed, 28 Feb 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2018/02/breakdown-open-data</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/02/breakdown-open-data</guid>
+        <link>https://civictechchat.github.io//2018/02/breakdown-open-data</link>
+        <guid isPermaLink="true">https://civictechchat.github.io//2018/02/breakdown-open-data</guid>
         
         <category>civictech</category>
         
@@ -163,8 +203,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Tue, 20 Feb 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2018/02/we-the-technologists</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/02/we-the-technologists</guid>
+        <link>https://civictechchat.github.io//2018/02/we-the-technologists</link>
+        <guid isPermaLink="true">https://civictechchat.github.io//2018/02/we-the-technologists</guid>
         
         <category>civictech</category>
         
@@ -185,8 +225,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Thu, 18 Jan 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2018/01/intro</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/intro</guid>
+        <link>https://civictechchat.github.io//2018/01/intro</link>
+        <guid isPermaLink="true">https://civictechchat.github.io//2018/01/intro</guid>
         
         <category>civictech</category>
         
