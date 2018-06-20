@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S01E07 Voices of Summit 🗣️"
+title: "Voices of Summit 🗣️"
 description: "S01E07"
 category: "podcast"
 tags: ["civictech", "episode", "code for america", "summit"]
