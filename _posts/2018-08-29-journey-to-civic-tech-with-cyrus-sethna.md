@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Journey to Civic Tech with Cyrus Sethna"
+title: "Journey to Civic Tech with Cyrus Sethna 🏃🏽"
 description: "18"
 category: "podcast"
 tags: ["civictech", "episode", "politics", "net neutrality"]
