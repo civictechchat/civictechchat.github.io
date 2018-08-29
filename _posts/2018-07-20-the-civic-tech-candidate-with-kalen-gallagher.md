@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Civic Tech Candidate, Kalen Gallagher 👨‍💼"
-description: "S01E010"
+description: "13"
 category: "podcast"
 tags: ["civictech", "episode", "government", "local government"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Organizing with Open Savannah 🙌🏽"
-description: "S01E012"
+description: "15"
 category: "podcast"
 tags: ["civictech", "episode", "government", "community organizing", "civic engagement"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GovLove and ELGL with Kent Wyatt 👨🏽‍⚖️👩🏽‍💻"
-description: "S01E08"
+description: "11"
 category: "podcast"
 tags: ["civictech", "episode", "government", "ELGL", "local government"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Voices of Summit 🗣️"
-description: "S01E07"
+description: "10"
 category: "podcast"
 tags: ["civictech", "episode", "code for america", "summit"]
 comments: true
