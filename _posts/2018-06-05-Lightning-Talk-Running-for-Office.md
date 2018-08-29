@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lightning Talk: Running for Office 🌩"
-description: "Lightning Talk @ 2018 Code for America Summit"
+description: "09"
 category: "podcast"
 tags: ["civictech", "episode", "education", "politics", "computer science"]
 comments: true

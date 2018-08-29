@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The State of Net Neutrality, August 2018 ⚖️"
-description: ""
+description: "17"
 category: "podcast"
 tags: ["civictech", "episode", "politics", "net neutrality"]
 comments: true

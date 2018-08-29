@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Breakdown: K-12 Computer Science Framework 👨🏽‍🏫"
-description: "Breakdown"
+description: "08"
 category: "podcast"
 tags: ["civictech", "episode", "education"]
 comments: true

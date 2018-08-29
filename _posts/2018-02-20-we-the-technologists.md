@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We the Technologists 🏛"
-description: "S01E01"
+description: "01"
 date: 2018-02-20
 tags: civictech episode
 category: "podcast"

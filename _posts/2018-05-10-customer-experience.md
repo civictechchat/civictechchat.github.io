@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Customer Experience 💪🏽🖥️🇺🇸"
-description: "S01E06"
+description: "07"
 category: "podcast"
 tags: ["civictech", "episode", "customer experience"]
 comments: true

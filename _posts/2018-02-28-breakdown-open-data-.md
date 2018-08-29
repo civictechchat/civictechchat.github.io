@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Breakdown: Open Data 📊"
-description: "Open Data in 5 minutes"
+description: "02"
 date: 2018-02-28
 tags: civictech breakdown
 category: "podcast"
