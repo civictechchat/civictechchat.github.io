@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Source Licenses 👩‍💻"
-description: "S01E05"
+description: "06"
 category: "podcast"
 tags: ["civictech", "episode", "open source"]
 comments: true

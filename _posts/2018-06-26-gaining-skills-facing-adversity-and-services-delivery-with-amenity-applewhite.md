@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaining skills, facing adversity, and modernizing services delivery with Amenity Applewhite 🙋🏼"
-description: "S01E09"
+description: "12"
 category: "podcast"
 tags: ["civictech", "episode", "government", "local government"]
 comments: true
