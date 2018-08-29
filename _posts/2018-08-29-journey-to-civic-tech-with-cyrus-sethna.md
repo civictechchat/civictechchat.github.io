@@ -16,11 +16,14 @@ For this episode we talk to [Cyrus Sethna](https://twitter.com/c_sethna) about t
 [📱 Listen on Google Music](https://play.google.com/music/listen?u=0#/ps/I2inksjzzzmbxhg5wbojr624doa)
 
 ### Resources and Shoutouts:
+- [United States Digital Service](https://usds.gov)
 - [ChiHackNight](https://chihacknight.org/)
+- [Open Uptown](http://openuptown.us)
 - [Chicago Python Users Group](http://www.chipy.org/)
 - [Federalist](https://federalist.18f.gov/)
 - [Code for DC](https://codefordc.org/)
 - [Cryptoparty @ Code for DC](https://cryptopartydc.github.io/)
+- [Coding it Forward Civic Digital Fellowship](https://www.codingitforward.com/fellowship/about)
 
 ##### Music Credit: [Tumbleweeds by Monkey Warhol](http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds)
 
