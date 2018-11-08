@@ -16,10 +16,10 @@ We talk about her path to becoming a thought leader in the civic tech movement a
 [📱 Listen on Google Music](https://play.google.com/music/listen?u=0#/ps/I2inksjzzzmbxhg5wbojr624doa)
 
 ### Resources and Shoutouts:
-- [Leah's Website](http://www.chipy.org/)
-- [Code for DC](https://chipymentor.org/)
+- [Leah's Website](http://leah.town/)
+- [Code for DC](https://codefordc.org/)
 - [USDS](https://www.usds.gov/)
-- [Tech Rebalanced](https://medium.com/@ErieMeyer/user-research-is-not-illegal-uncle-sam-51f2f92a280a)
+- [Tech Rebalanced](https://techladyhackathon.org/)
 - [User Research is not Illegal](https://medium.com/@ErieMeyer/user-research-is-not-illegal-uncle-sam-51f2f92a280a)
 
 ##### Music Credit: [Tumbleweeds by Monkey Warhol](http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds)
