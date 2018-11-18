@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A chat with the Canadian Digital Services CEO Aaron Snow 💪🏽💻🇨🇦"
+title: "A chat with the Canadian Digital Service CEO Aaron Snow 💪🏽💻🇨🇦"
 description: "19"
 category: "podcast"
 tags: ["civictech", "episode", "policy", "digital services", "canada"]
@@ -18,7 +18,7 @@ We welcome [Aaron Snow](https://twitter.com/aaronsnow), Chief Executive Officer 
 ### Resources and Shoutouts:
 - [Code for Canada](https://codefor.ca/)
 - [C4C and CDS partnership](https://digital.canada.ca/2018/04/19/our-partnership-with-code-for-canada/)
-- [18F](https://18f.gsa.gov/) 
+- [18F](https://18f.gsa.gov/)
 
 
 
