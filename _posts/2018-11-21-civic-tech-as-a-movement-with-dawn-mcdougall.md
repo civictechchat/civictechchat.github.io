@@ -9,7 +9,7 @@ comments: true
 This episode features [Dawn McDougall](https://twitter.com/de_mcdougs), Senior Advisor and former Executive Director of [Code for Philly](https://twitter.com/CodeForPhilly).
 We hop into a discussion about what it means for Civic Tech to be a movement and we gain some insight into how Code for Philly does community organizing.
 <iframe width="100%" height="75" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/533265189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<a href="https://soundcloud.com/user-227289754/civic-tech-as-a-movement-dawn-mcdougalll" target="_blank">🎧 Listen</a>
+<a href="https://soundcloud.com/user-227289754/civic-tech-as-a-movement-dawn-mcdougall" target="_blank">🎧 Listen</a>
 
 [📱 Listen on iTunes](https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2)
 
