@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Civic Tech as a Movement with Dawn McDougall 🏛"
-description: "22"
+description: "23"
 category: "podcast"
 tags: ["civictech", "episode", "movement", "philadelphia", "community organizing"]
 comments: true
