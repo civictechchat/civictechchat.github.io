@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Organizing through crises featuring Codeando Mexico's Alma Rangel 🏛"
+title: "Organizing through crises featuring Codeando Mexico's Alma Rangel 🙋🏽👩🏽‍💻"
 description: "24"
 category: "podcast"
 tags: ["civictech", "episode", "crises response", "mexico", "community organizing"]
