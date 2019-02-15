@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Humane Technology with Genevieve Gaudet 🙋🏽 🙋🏽‍♂️"
-description: "26"
+description: "27"
 category: "podcast"
 tags: ["civictech", "episode", "policy", "privacy"]
 comments: true
