@@ -7,7 +7,7 @@ tags: ["civictech", "episode", "usds", "engineering", "software"]
 comments: true
 ---
 
-We are joined by [David Homes](https://github.com/DavidEHolmes), Director of Engineering over at the [United States Digital Service](https://twitter.com/usds). Our conversation will cover a number of topics including technology accessibility, interacting with partners and translating business rules into code, and the mentorship and development of engineers. 
+We are joined by [David Holmes](https://github.com/DavidEHolmes), Director of Engineering over at the [United States Digital Service](https://twitter.com/usds). Our conversation will cover a number of topics including technology accessibility, interacting with partners and translating business rules into code, and the mentorship and development of engineers. 
 
 <iframe width="100%" height="75" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642208500%3Fsecret_token%3Ds-R40PL&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <a href="https://soundcloud.com/user-227289754/31-learning-from-usds-engineering-director-david-holmes/" target="_blank">🎧 Listen</a>
