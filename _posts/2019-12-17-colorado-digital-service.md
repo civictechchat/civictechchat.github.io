@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Colorado Digital Service 👩🏽‍💻"
-description: "37"
+description: "39"
 category: "podcast"
 tags: ["civictech", "episode", "digital service", "cross functional teams", "colorado"]
 comments: true
