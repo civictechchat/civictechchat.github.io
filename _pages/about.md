@@ -7,7 +7,7 @@ permalink: /about/
 
 **ci•vic  tech•no•lo•gy** *(n.)*: technology (mainly information technology) that enables engagement or participation of the public for stronger development, enhancing citizen communications, improving government infrastructure, and generally improving the public good [(wikipedia)](https://en.wikipedia.org/wiki/Civic_technology).
 
-Written, recorded, produced by [Ryan Koch](https://twitter.com/Ryan_Koch).
+Hosted by [Ryan Koch](https://twitter.com/Ryan_Koch){:target="_blank"}, [Leah Bannon](https://twitter.com/leahbannon){:target="_blank"}, and [Mohith Rao](https://twitter.com/localtechsupp){:target="_blank"}
 
 ----
 
