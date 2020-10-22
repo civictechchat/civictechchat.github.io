@@ -7,7 +7,7 @@ tags: ["civictech", "episode", "govtech", "book"]
 comments: true
 ---
 
-Civic Design Consultant and author [Cyd Harrel](https://twitter.com/cydharrell){:target="_blank"} joins us for a conversation about their new book [A Civic Technologist's Practice Guide](https://www.goodreads.com/book/show/55225556-a-civic-technologist-s-practice-guide?ac=1&from_search=true&qid=paFK2DugTf&rank=1){:target="_blank"}, which seeks to be a grounding document in the space. 
+Civic Design Consultant and author [Cyd Harrell](https://twitter.com/cydharrell){:target="_blank"} joins us for a conversation about their new book [A Civic Technologist's Practice Guide](https://www.goodreads.com/book/show/55225556-a-civic-technologist-s-practice-guide?ac=1&from_search=true&qid=paFK2DugTf&rank=1){:target="_blank"}, which seeks to be a grounding document in the space. 
 
 <iframe width="100%" height="75" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/915854056%3Fsecret_token%3Ds-AkpVpKsPMW1&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <a href="https://soundcloud.com/user-227289754/50-a-civic-technologists-practice-guide/" target="_blank">🎧 Listen</a>
