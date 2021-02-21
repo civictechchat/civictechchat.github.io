@@ -4,11 +4,51 @@
     <title>Civic Tech Chat</title>
     <description>A podcast on breakthroughs in public service technology.
 </description>
-    <link>https://civictechchat.github.io//</link>
-    <atom:link href="https://civictechchat.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Feb 2021 00:23:05 -0600</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2021 00:23:05 -0600</lastBuildDate>
+    <link>https://civictech.chat/</link>
+    <atom:link href="https://civictech.chat/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 20 Feb 2021 20:21:51 -0600</pubDate>
+    <lastBuildDate>Sat, 20 Feb 2021 20:21:51 -0600</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Revisiting 'We the Technologists' 🏛</title>
+        <description>&lt;p&gt;Hello folks! Below you’ll find the original description for the first episode we ever released. It was this day three years ago that this adventure started. So let’s sit back, listen, and take stock in how far we’ve all come since then.&lt;/p&gt;
+
+&lt;p&gt;Our inaugural episode features a panel discussion with &lt;a href=&quot;https://twitter.com/kristil&quot; target=&quot;_blank&quot;&gt;Kristi Leach&lt;/a&gt;, an independent Design Researcher and Information Architect, &lt;a href=&quot;https://twitter.com/tomdooner&quot; target=&quot;_blank&quot;&gt;Tom Dooner&lt;/a&gt;, a Developer Evangelist for Code for America, and &lt;a href=&quot;https://twitter.com/c_sethna&quot; target=&quot;_blank&quot;&gt;Cyrus Sethna&lt;/a&gt;, a Digital Services Expert with the United States Digital Service. We’ll talk about what Civic Tech is, where the movement stands, and how you can get involved.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/989751331&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/55-revisiting-we-the-technologists&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;web-resources-mentioned-in-the-episode&quot;&gt;Web Resources mentioned in the episode&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Code for America Brigade&lt;/em&gt;: &lt;a href=&quot;https://brigade.codeforamerica.org&quot; target=&quot;_blank&quot;&gt;brigade.codeforamerica.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Code for America Public Interest Tech Job Board&lt;/em&gt;: &lt;a href=&quot;https://jobs.codeforamerica.org&quot; target=&quot;_blank&quot;&gt;jobs.codeforamerica.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Open Uptown&lt;/em&gt;: &lt;a href=&quot;https://codeforchicago.org&quot; target=&quot;_blank&quot;&gt;uptown.codes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;💪🖥🇺🇸: &lt;a href=&quot;https://usds.gov&quot; target=&quot;_blank&quot;&gt;usds.gov&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Build With Not For&lt;/em&gt;: &lt;a href=&quot;https://buildwithnotfor.wordpress.com&quot; target=&quot;_blank&quot;&gt;buildwithnotfor.wordpress.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
+</description>
+        <pubDate>Sat, 20 Feb 2021 00:00:00 -0600</pubDate>
+        <link>https://civictech.chat/2021/02/we-the-technologists-reloaded</link>
+        <guid isPermaLink="true">https://civictech.chat/2021/02/we-the-technologists-reloaded</guid>
+        
+        <category>civictech</category>
+        
+        <category>episode</category>
+        
+        <category>govtech</category>
+        
+        <category>USDS</category>
+        
+        <category>Code for America</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Storytelling, building community, connecting with others 🎤</title>
@@ -32,8 +72,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Thu, 11 Feb 2021 00:00:00 -0600</pubDate>
-        <link>https://civictechchat.github.io//2021/02/storytelling-building-community-connecting-with-others</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2021/02/storytelling-building-community-connecting-with-others</guid>
+        <link>https://civictech.chat/2021/02/storytelling-building-community-connecting-with-others</link>
+        <guid isPermaLink="true">https://civictech.chat/2021/02/storytelling-building-community-connecting-with-others</guid>
         
         <category>civictech</category>
         
@@ -76,8 +116,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
-        <link>https://civictechchat.github.io//2021/01/gaming-history-and-teaching-us-about-spacecraft</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2021/01/gaming-history-and-teaching-us-about-spacecraft</guid>
+        <link>https://civictech.chat/2021/01/gaming-history-and-teaching-us-about-spacecraft</link>
+        <guid isPermaLink="true">https://civictech.chat/2021/01/gaming-history-and-teaching-us-about-spacecraft</guid>
         
         <category>civictech</category>
         
@@ -123,8 +163,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Tue, 29 Dec 2020 00:00:00 -0600</pubDate>
-        <link>https://civictechchat.github.io//2020/12/digital-maturity-indicator</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2020/12/digital-maturity-indicator</guid>
+        <link>https://civictech.chat/2020/12/digital-maturity-indicator</link>
+        <guid isPermaLink="true">https://civictech.chat/2020/12/digital-maturity-indicator</guid>
         
         <category>civictech</category>
         
@@ -155,8 +195,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Wed, 18 Nov 2020 00:00:00 -0600</pubDate>
-        <link>https://civictechchat.github.io//2020/11/more-than-code</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2020/11/more-than-code</guid>
+        <link>https://civictech.chat/2020/11/more-than-code</link>
+        <guid isPermaLink="true">https://civictech.chat/2020/11/more-than-code</guid>
         
         <category>civictech</category>
         
@@ -197,8 +237,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Wed, 21 Oct 2020 00:00:00 -0500</pubDate>
-        <link>https://civictechchat.github.io//2020/10/a-civic-technologists-practice-guide</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2020/10/a-civic-technologists-practice-guide</guid>
+        <link>https://civictech.chat/2020/10/a-civic-technologists-practice-guide</link>
+        <guid isPermaLink="true">https://civictech.chat/2020/10/a-civic-technologists-practice-guide</guid>
         
         <category>civictech</category>
         
@@ -235,8 +275,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Wed, 07 Oct 2020 00:00:00 -0500</pubDate>
-        <link>https://civictechchat.github.io//2020/10/civic-engagement-covid-part-2</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2020/10/civic-engagement-covid-part-2</guid>
+        <link>https://civictech.chat/2020/10/civic-engagement-covid-part-2</link>
+        <guid isPermaLink="true">https://civictech.chat/2020/10/civic-engagement-covid-part-2</guid>
         
         <category>civictech</category>
         
@@ -277,8 +317,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Tue, 15 Sep 2020 00:00:00 -0500</pubDate>
-        <link>https://civictechchat.github.io//2020/09/code-for-america-with-amanda-renteria</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2020/09/code-for-america-with-amanda-renteria</guid>
+        <link>https://civictech.chat/2020/09/code-for-america-with-amanda-renteria</link>
+        <guid isPermaLink="true">https://civictech.chat/2020/09/code-for-america-with-amanda-renteria</guid>
         
         <category>civictech</category>
         
@@ -322,8 +362,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Sun, 30 Aug 2020 00:00:00 -0500</pubDate>
-        <link>https://civictechchat.github.io//2020/08/civic-engagement-covid-part-1</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2020/08/civic-engagement-covid-part-1</guid>
+        <link>https://civictech.chat/2020/08/civic-engagement-covid-part-1</link>
+        <guid isPermaLink="true">https://civictech.chat/2020/08/civic-engagement-covid-part-1</guid>
         
         <category>civictech</category>
         
@@ -364,8 +404,8 @@
 &lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
 </description>
         <pubDate>Tue, 14 Jul 2020 00:00:00 -0500</pubDate>
-        <link>https://civictechchat.github.io//2020/07/data-driven-roads</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2020/07/data-driven-roads</guid>
+        <link>https://civictech.chat/2020/07/data-driven-roads</link>
+        <guid isPermaLink="true">https://civictech.chat/2020/07/data-driven-roads</guid>
         
         <category>civictech</category>
         
@@ -378,53 +418,6 @@
         <category>roads</category>
         
         <category>government</category>
-        
-        
-        <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>Engineering Leadership with USDS' Lisa Chung 💪🏾💻🇺🇸 </title>
-        <description>&lt;p&gt;United Stats Digital Services Engineering Director &lt;a href=&quot;https://www.linkedin.com/in/coderlisa/&quot; target=&quot;_blank&quot;&gt;Lisa Chung&lt;/a&gt; joined us to talk engineering culture, hiring diversity and inclusion, and vendor best practices. We had the chance to sit down and learn from her in March as she was taking on this leadership role.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/822763579%3Fsecret_token%3Ds-faOc6O7Ey5y&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/45-engineering-leadership-with-usds-lisa-chung/&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot; target=&quot;_blank&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://play.google.com/music/listen?u=0#/ps/I2inksjzzzmbxhg5wbojr624doa&quot; target=&quot;_blank&quot;&gt;📱 Listen on Google Music&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/1kbwPAi4thGOU43xFkehgT&quot; target=&quot;_blank&quot;&gt;📱 Listen on Spotify&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/matt_cutts_what_happens_when_a_silicon_valley_technologist_works_for_the_government&quot; target=&quot;_blank&quot;&gt;Matt Cutts Ted Talk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.senseandrespondpress.com/the-government-fix&quot; target=&quot;_blank&quot;&gt;The Government Fix (book)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/usdigitalservice/&quot; target=&quot;_blank&quot;&gt;USDS Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
-</description>
-        <pubDate>Sun, 17 May 2020 00:00:00 -0500</pubDate>
-        <link>https://civictechchat.github.io//2020/05/lisa-chung-usds-engineering</link>
-        <guid isPermaLink="true">https://civictechchat.github.io//2020/05/lisa-chung-usds-engineering</guid>
-        
-        <category>civictech</category>
-        
-        <category>episode</category>
-        
-        <category>usds</category>
-        
-        <category>digital service</category>
-        
-        <category>govtech</category>
-        
-        <category>procurement</category>
-        
-        <category>hiring</category>
-        
-        <category>culture</category>
         
         
         <category>podcast</category>
