@@ -25,6 +25,8 @@ Join us on [Discord](https://discord.gg/hECzBJh)
 - [Washington Post article about Senate Bill](https://www.washingtonpost.com/technology/2021/04/21/data-surveillance-bill/){:target="_blank"}
 - [FTC Post](https://www.ftc.gov/news-events/blogs/business-blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai){:target="_blank"}
 - [Facial Recognition bias study](http://gendershades.org/overview.html){:target="_blank"}
+- [Automating Inequality](https://www.goodreads.com/book/show/34964830-automating-inequality?from_search=true&from_srp=true&qid=AlS7uo1kQd&rank=1){:target="_blank"}
+- [Weapons of Math Destruction](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction?ac=1&from_search=true&qid=Hu88paf7ZJ&rank=1){:target="_blank"}
 
 ##### Music Credit: [Tumbleweeds by Monkey Warhol](http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds){:target="_blank"}
 
