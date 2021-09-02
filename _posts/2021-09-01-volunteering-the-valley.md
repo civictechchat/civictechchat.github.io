@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voluntering the Valley 👩‍💻"
+title: "Volunteering the Valley 👩‍💻"
 description: "63"
 category: "podcast"
 tags: ["civictech", "episode", "volunteer", "academia", "research", "introspection"]
