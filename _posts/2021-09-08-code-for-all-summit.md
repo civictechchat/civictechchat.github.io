@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Code for All summit 🌐"
+title: "Code for All Summit 🌐"
 description: "64"
 category: "podcast"
 tags: ["civictech", "episode", "volunteer", "code for all", "summit", "conference"]
