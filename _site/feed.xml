@@ -6,9 +6,53 @@
 </description>
     <link>https://civictech.chat/</link>
     <atom:link href="https://civictech.chat/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Sep 2021 21:56:16 -0500</pubDate>
-    <lastBuildDate>Wed, 08 Sep 2021 21:56:16 -0500</lastBuildDate>
+    <pubDate>Thu, 16 Sep 2021 20:45:51 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Sep 2021 20:45:51 -0500</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Silenced No More Act 🏛️</title>
+        <description>&lt;p&gt;We talk a bit about the Silenced No More act, a bill that passed the California legislature on September 3rd. We’ll cover what it seeks to do, the problem space it covers, and why it’s a salient topic.&lt;/p&gt;
+
+&lt;p&gt;Join us on &lt;a href=&quot;https://discord.gg/hECzBJh&quot;&gt;Discord&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1126071745%3Fsecret_token%3Ds-E8bDKKC2iNM&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/65-silenced-no-more-act/&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot; target=&quot;_blank&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6Mzg4NTYyNjc2L3NvdW5kcy5yc3M?sa=X&amp;amp;ved=2ahUKEwjTu5ay5bHwAhUbUc0KHXJEA1UQ9sEGegQIARAC&quot; target=&quot;_blank&quot;&gt;📱 Listen on Google Podcasts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/1kbwPAi4thGOU43xFkehgT&quot; target=&quot;_blank&quot;&gt;📱 Listen on Spotify&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202120220SB331#&quot; target=&quot;_blank&quot;&gt;California State Senate Floor Analysis of the bill&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2021/09/09/silenced-no-more-act-goes-global/&quot; target=&quot;_blank&quot;&gt;Washington Post coverage of the bill&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amglaw.com/blog/2021/09/what-does-the-silenced-no-more-act-mean-for-california-workers/&quot; target=&quot;_blank&quot;&gt;Law firm blog post on the bill&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sd20.senate.ca.gov/news/2021-02-08-senator-leyva-introduces-%E2%80%9Csilenced-no-more-act%E2%80%9D&quot; target=&quot;_blank&quot;&gt;Press release from introduction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
+</description>
+        <pubDate>Thu, 16 Sep 2021 00:00:00 -0500</pubDate>
+        <link>https://civictech.chat/2021/09/silenced-no-more-act</link>
+        <guid isPermaLink="true">https://civictech.chat/2021/09/silenced-no-more-act</guid>
+        
+        <category>civictech</category>
+        
+        <category>episode</category>
+        
+        <category>public policy</category>
+        
+        <category>bill</category>
+        
+        <category>california</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Code for All Summit 🌐</title>
@@ -407,46 +451,6 @@
         <category>security</category>
         
         <category>storytelling</category>
-        
-        
-        <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>Revisiting 'We the Technologists' 🏛</title>
-        <description>&lt;p&gt;Hello folks! Below you’ll find the original description for the first episode we ever released. It was this day three years ago that this adventure started. So let’s sit back, listen, and take stock in how far we’ve all come since then.&lt;/p&gt;
-
-&lt;p&gt;Our inaugural episode features a panel discussion with &lt;a href=&quot;https://twitter.com/kristil&quot; target=&quot;_blank&quot;&gt;Kristi Leach&lt;/a&gt;, an independent Design Researcher and Information Architect, &lt;a href=&quot;https://twitter.com/tomdooner&quot; target=&quot;_blank&quot;&gt;Tom Dooner&lt;/a&gt;, a Developer Evangelist for Code for America, and &lt;a href=&quot;https://twitter.com/c_sethna&quot; target=&quot;_blank&quot;&gt;Cyrus Sethna&lt;/a&gt;, a Digital Services Expert with the United States Digital Service. We’ll talk about what Civic Tech is, where the movement stands, and how you can get involved.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/989751331&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/55-revisiting-we-the-technologists&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;web-resources-mentioned-in-the-episode&quot;&gt;Web Resources mentioned in the episode&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Code for America Brigade&lt;/em&gt;: &lt;a href=&quot;https://brigade.codeforamerica.org&quot; target=&quot;_blank&quot;&gt;brigade.codeforamerica.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Code for America Public Interest Tech Job Board&lt;/em&gt;: &lt;a href=&quot;https://jobs.codeforamerica.org&quot; target=&quot;_blank&quot;&gt;jobs.codeforamerica.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Open Uptown&lt;/em&gt;: &lt;a href=&quot;https://codeforchicago.org&quot; target=&quot;_blank&quot;&gt;uptown.codes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;💪🖥🇺🇸: &lt;a href=&quot;https://usds.gov&quot; target=&quot;_blank&quot;&gt;usds.gov&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Build With Not For&lt;/em&gt;: &lt;a href=&quot;https://buildwithnotfor.wordpress.com&quot; target=&quot;_blank&quot;&gt;buildwithnotfor.wordpress.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
-</description>
-        <pubDate>Sat, 20 Feb 2021 00:00:00 -0600</pubDate>
-        <link>https://civictech.chat/2021/02/we-the-technologists-reloaded</link>
-        <guid isPermaLink="true">https://civictech.chat/2021/02/we-the-technologists-reloaded</guid>
-        
-        <category>civictech</category>
-        
-        <category>episode</category>
-        
-        <category>govtech</category>
-        
-        <category>USDS</category>
-        
-        <category>Code for America</category>
         
         
         <category>podcast</category>
