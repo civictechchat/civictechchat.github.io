@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Silenced No More Act 🏛️"
-description: "64"
+description: "65"
 category: "podcast"
 tags: ["civictech", "episode", "public policy", "bill", "california"]
 comments: true
