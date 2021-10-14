@@ -10,7 +10,7 @@ comments: true
 During this episode we dive into a conversation about the Code for America volunteer network. We'll talk through conversations they've been having at the grassroots level to refocus their efforts and answer some key questions around values, purpose, and future steps. We're joined by the following folks at different stages of the conversation:
 - [Em Burnett](https://twitter.com/elburnett){:target="_blank"}
 - [Janet Michaelis](https://twitter.com/jgmichaelis){:target="_blank"}
-- Jennifer Miller
+- [Jennifer Miller](https://www.linkedin.com/in/jennifermillerpublicpolicy/){:target="_blank"}
 - [Rene Joy](https://twitter.com/renejoywrites){:target="_blank"}
 - [Tim Leisman](https://twitter.com/TimLeisman){:target="_blank"}
 - Yeti Aberra
