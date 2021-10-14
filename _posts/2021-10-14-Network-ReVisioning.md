@@ -13,7 +13,7 @@ During this episode we dive into a conversation about the Code for America volun
 - [Jennifer Miller](https://www.linkedin.com/in/jennifermillerpublicpolicy/){:target="_blank"}
 - [Rene Joy](https://twitter.com/renejoywrites){:target="_blank"}
 - [Tim Leisman](https://twitter.com/TimLeisman){:target="_blank"}
-- Yeti Aberra
+- [Yeti Aberra](https://www.linkedin.com/in/Yaberra){:target="_blank"}
 
 Join us on [Discord](https://discord.gg/hECzBJh)
 
