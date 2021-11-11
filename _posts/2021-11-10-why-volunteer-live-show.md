@@ -7,7 +7,7 @@ tags: ["civictech", "episode", "volunteer", "codeforamerica", "brigade"]
 comments: true
 ---
 
-Listen in with us for a conversation about the motivations and constraints involved with volunteering in civic tech! We're joined by [Jill Bjers](https://twitter.com/Jillzey){:target="_blank"}, [Nehemiah Dacres](https://twitter.com/dacresni){:target="_blank", [Marianne Miranda](https://twitter.com/mariannettePM){:target="_blank"}, and [Matt Zagaja](https://twitter.com/mzagaja){:target="_blank"} for a live show that happened during the 2021 Code for America Brigade Congress.
+Listen in with us for a conversation about the motivations and constraints involved with volunteering in civic tech! We're joined by [Jill Bjers](https://twitter.com/Jillzey){:target="_blank"}, [Nehemiah Dacres](https://twitter.com/dacresni){:target="_blank"}, [Marianne Miranda](https://twitter.com/mariannettePM){:target="_blank"}, and [Matt Zagaja](https://twitter.com/mzagaja){:target="_blank"} for a live show that happened during the 2021 Code for America Brigade Congress.
 
 Join us on [Discord](https://discord.gg/hECzBJh)
 
