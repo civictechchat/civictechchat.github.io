@@ -6,9 +6,56 @@
 </description>
     <link>https://civictech.chat/</link>
     <atom:link href="https://civictech.chat/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jan 2022 22:55:55 -0600</pubDate>
-    <lastBuildDate>Tue, 11 Jan 2022 22:55:55 -0600</lastBuildDate>
+    <pubDate>Tue, 08 Feb 2022 23:10:02 -0600</pubDate>
+    <lastBuildDate>Tue, 08 Feb 2022 23:10:02 -0600</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Dark Patterns</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/ryan_koch/&quot; target=&quot;_blank&quot;&gt;Ryan Koch&lt;/a&gt; chats with us a bit about dark patterns, a set of deceptive techniques that are often used in the design of technology products and services. We’ll talk about what they are, why they are important, as well as what the government is trying to do about it.&lt;/p&gt;
+
+&lt;p&gt;Join us on &lt;a href=&quot;https://discord.gg/hECzBJh&quot;&gt;Discord&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1212499816%3Fsecret_token%3Ds-fOzFbZIn13S&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/71-dark-patterns/&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot; target=&quot;_blank&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6Mzg4NTYyNjc2L3NvdW5kcy5yc3M?sa=X&amp;amp;ved=2ahUKEwjTu5ay5bHwAhUbUc0KHXJEA1UQ9sEGegQIARAC&quot; target=&quot;_blank&quot;&gt;📱 Listen on Google Podcasts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/1kbwPAi4thGOU43xFkehgT&quot; target=&quot;_blank&quot;&gt;📱 Listen on Spotify&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://academic.oup.com/jla/article/13/1/43/6180579?login=false&quot; target=&quot;_blank&quot;&gt;Shining a Light on Dark Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.raconteur.net/technology/dark-patterns/&quot; target=&quot;_blank&quot;&gt;What are dark patterns and how are they tricking me?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.darkpatterns.org/types-of-dark-pattern&quot; target=&quot;_blank&quot;&gt;Dark pattern types&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2022/01/24/google-location-data-ags-lawsuit/&quot; target=&quot;_blank&quot;&gt;WaPo piece about Google lawsuit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webtransparency.cs.princeton.edu/dark-patterns/&quot; target=&quot;_blank&quot;&gt;Princeton and UChicago study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ftc.gov/system/files/documents/public_statements/1598063/negative_option_policy_statement-10-22-2021-tobureau.pdf&quot; target=&quot;_blank&quot;&gt;FTC enforcement policy statement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
+
+</description>
+        <pubDate>Tue, 08 Feb 2022 00:00:00 -0600</pubDate>
+        <link>https://civictech.chat/2022/02/dark-patterns</link>
+        <guid isPermaLink="true">https://civictech.chat/2022/02/dark-patterns</guid>
+        
+        <category>civictech</category>
+        
+        <category>government</category>
+        
+        <category>public policy</category>
+        
+        <category>technology</category>
+        
+        <category>design</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Civic Technologist's Practice Guide Episode Re-Release 📚</title>
@@ -407,56 +454,6 @@
         <category>public policy</category>
         
         <category>facial recognition</category>
-        
-        <category>government</category>
-        
-        <category>legislation</category>
-        
-        
-        <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>Right to Repair 🛠️</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/ryan_koch&quot; target=&quot;_blank&quot;&gt;Ryan Koch&lt;/a&gt; talks Right to Repair. We’ll chat through what it’s about, why it’s important, and some legislation that’s out there being considered.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1104435109%3Fsecret_token%3Ds-1F2sRgDSG9V&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/61-right-to-repair&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot; target=&quot;_blank&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6Mzg4NTYyNjc2L3NvdW5kcy5yc3M?sa=X&amp;amp;ved=2ahUKEwjTu5ay5bHwAhUbUc0KHXJEA1UQ9sEGegQIARAC&quot; target=&quot;_blank&quot;&gt;📱 Listen on Google Podcasts&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/1kbwPAi4thGOU43xFkehgT&quot; target=&quot;_blank&quot;&gt;📱 Listen on Spotify&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.brookings.edu/blog/techtank/2021/07/14/president-bidens-right-to-repair-order-needs-strengthening-to-aid-consumers/&quot; target=&quot;_blank&quot;&gt;Brookings article&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nysenate.gov/legislation/bills/2021/S4104&quot; target=&quot;_blank&quot;&gt;New York State Senate Bill&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en/article/93y3np/new-york-senate-passes-electronics-right-to-repair-legislation&quot; target=&quot;_blank&quot;&gt;Vice article about the New York State Senate bill&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/&quot; target=&quot;_blank&quot;&gt;Executive Order regarding Right to Repair&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.vice.com/en/article/v7m8mx/john-deere-promised-farmers-it-would-make-tractors-easy-to-repair-it-lied&quot; target=&quot;_blank&quot;&gt;Vice article covering John Deere and Right to Repair&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://uspirg.org/feature/usp/deere-headlights&quot; target=&quot;_blank&quot;&gt;USPIRG piece about John Deere&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://morelle.house.gov/media/press-releases/congressman-joe-morelle-introduces-fair-repair-act&quot; target=&quot;_blank&quot;&gt;Rep Morelle Fair Repair Act Press Release&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.congress.gov/bill/117th-congress/house-bill/4006/committees&quot; target=&quot;_blank&quot;&gt;Fair Repair Act&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ifixit.com/Right-to-Repair/E-waste&quot; target=&quot;_blank&quot;&gt;IFixIt piece about Right to Repair and E-Waste&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
-
-</description>
-        <pubDate>Wed, 11 Aug 2021 00:00:00 -0500</pubDate>
-        <link>https://civictech.chat/2021/08/right-to-repair</link>
-        <guid isPermaLink="true">https://civictech.chat/2021/08/right-to-repair</guid>
-        
-        <category>civictech</category>
-        
-        <category>episode</category>
-        
-        <category>public policy</category>
-        
-        <category>right to repair</category>
         
         <category>government</category>
         
