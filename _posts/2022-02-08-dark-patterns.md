@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dark Patterns"
+title: "Dark Patterns "
 description: "71"
 category: "podcast"
 tags: ["civictech", "government", "public policy", "technology", "design"]
