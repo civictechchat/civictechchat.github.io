@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Opinion research 📊"
-description: "72"
+description: "73"
 category: "podcast"
 tags: ["civictech", "government", "local government", "technology", "opinion research", "polling"]
 comments: true
