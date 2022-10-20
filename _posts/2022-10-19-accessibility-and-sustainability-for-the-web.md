@@ -7,7 +7,7 @@ tags: ["civictech", "government", "volunteering", "technology", "organizing"]
 comments: true
 ---
 
-We are joined by [Mike Gifford](https://twitter.com/mgifford){:target="_blank"}, Senior Strategist at [Civic Actions](https://civicactions.com/){:target="_blank"} to talk about accessibility and sustainability on the web. 
+We are joined by [Mike Gifford](https://twitter.com/mgifford){:target="_blank"}, Senior Strategist at [CivicActions](https://civicactions.com/){:target="_blank"} to talk about accessibility and sustainability on the web. 
 
 Join us on [Discord](https://discord.gg/hECzBJh){:target="_blank"}
 
