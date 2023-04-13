@@ -1,0 +1,37 @@
+current directory: /home/ryan/projects/civictechchat.github.io/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/ryan/.rbenv/versions/2.5.9/bin/ruby -r ./siteconf20230412-15933-jicm0o.rb extconf.rb
+creating Makefile
+
+current directory: /home/ryan/projects/civictechchat.github.io/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/ryan/projects/civictechchat.github.io/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+cc1plus: warning: command-line option ‘-Wimplicit-int’ is valid for C/ObjC but not for C++
+cc1plus: warning: command-line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++
+cc1plus: warning: command-line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++
+cc1plus: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1plus: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
+cc1plus: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+compiling rubymain.cpp
+cc1plus: warning: command-line option ‘-Wimplicit-int’ is valid for C/ObjC but not for C++
+cc1plus: warning: command-line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++
+cc1plus: warning: command-line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++
+In file included from /home/ryan/.rbenv/versions/2.5.9/include/ruby-2.5.0/ruby/ruby.h:2040,
+                 from /home/ryan/.rbenv/versions/2.5.9/include/ruby-2.5.0/ruby.h:33,
+                 from rubymain.cpp:25:
+/home/ryan/.rbenv/versions/2.5.9/include/ruby-2.5.0/ruby/intern.h:47:33: warning: ISO C++17 does not allow ‘register’ storage class specifier [-Wregister]
+   47 | void rb_mem_clear(register VALUE*, register long);
+      |                                 ^
+/home/ryan/.rbenv/versions/2.5.9/include/ruby-2.5.0/ruby/intern.h:47:45: warning: ISO C++17 does not allow ‘register’ storage class specifier [-Wregister]
+   47 | void rb_mem_clear(register VALUE*, register long);
+      |                                             ^~~~
+cc1plus: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1plus: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
+cc1plus: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+linking shared-object fastfilereaderext.so
+
+current directory: /home/ryan/projects/civictechchat.github.io/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20230412-15933-1mp8eh2
