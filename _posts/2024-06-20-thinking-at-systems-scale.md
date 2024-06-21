@@ -7,7 +7,7 @@ tags: ["civictech", "episode", "systems thinking", "government", "scale"]
 comments: true
 ---
 
-We're joined by [Greg Jordan-Detamore](https://www.gregjd.com/){:target="_blank"} to talk about the digital services in operations, how applying civic tech practices happen where resources are constrained, and overcoming differing language choices.
+We're joined by [Greg Jordan-Detamore](https://www.gregjd.com/){:target="_blank"} to talk about digital services in operations, how applying civic tech practices happen where resources are constrained, and overcoming differing language choices.
 
 <iframe width="100%" height="75" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1853357292%3Fsecret_token%3Ds-J9WKGSyozI1&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <a href="https://soundcloud.com/user-227289754/86-thinking-at-systems-scale" target="_blank">🎧 Listen</a>
