@@ -6,9 +6,53 @@
 </description>
     <link>https://civictech.chat/</link>
     <atom:link href="https://civictech.chat/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Jun 2023 22:42:37 -0500</pubDate>
-    <lastBuildDate>Fri, 23 Jun 2023 22:42:37 -0500</lastBuildDate>
+    <pubDate>Thu, 20 Jun 2024 22:32:32 -0500</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2024 22:32:32 -0500</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>86 Thinking at Systems Scale 🤔</title>
+        <description>&lt;p&gt;We’re joined by &lt;a href=&quot;https://www.gregjd.com/&quot; target=&quot;_blank&quot;&gt;Greg Jordan-Detamore&lt;/a&gt; to talk about the digital services in operations, how applying civic tech practices happen where resources are constrained, and overcoming differing language choices.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1853357292%3Fsecret_token%3Ds-J9WKGSyozI1&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/86-thinking-at-systems-scale&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot; target=&quot;_blank&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/music/listen?u=0#/ps/I2inksjzzzmbxhg5wbojr624doa&quot; target=&quot;_blank&quot;&gt;📱 Listen on Google Music&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/1kbwPAi4thGOU43xFkehgT&quot; target=&quot;_blank&quot;&gt;📱 Listen on Spotify&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://civicinsighter.com/&quot; target=&quot;_blank&quot;&gt;Greg’s substack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/61796680-recoding-america&quot; target=&quot;_blank&quot;&gt;Recoding America (book)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/46266188-the-fifth-risk?ref=nav_sb_ss_1_14&quot; target=&quot;_blank&quot;&gt;The Fifth Risk (book)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robdial.com/podcast/&quot; target=&quot;_blank&quot;&gt;The Mindset Mentor (podcast)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slowboring.com/&quot; target=&quot;_blank&quot;&gt;Slow Boring (blog)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
+
+</description>
+        <pubDate>Thu, 20 Jun 2024 00:00:00 -0500</pubDate>
+        <link>https://civictech.chat/2024/06/thinking-at-systems-scale</link>
+        <guid isPermaLink="true">https://civictech.chat/2024/06/thinking-at-systems-scale</guid>
+        
+        <category>civictech</category>
+        
+        <category>episode</category>
+        
+        <category>systems thinking</category>
+        
+        <category>government</category>
+        
+        <category>scale</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>85 The AI Generated Episode 🤖</title>
@@ -394,54 +438,6 @@ Hello, I'm Ryan Koch. And this is civic tech chat show that looks at the way tec
         <category>security</category>
         
         <category>human centered</category>
-        
-        
-        <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>Digital identity and services delivery 🆔</title>
-        <description>&lt;p&gt;We are joined by &lt;a href=&quot;https://twitter.com/JordansRules&quot; target=&quot;_blank&quot;&gt;Jordan Burris&lt;/a&gt;, Senior Director of Public Sector Product Market Strategy at &lt;a href=&quot;https://www.socure.com/&quot; target=&quot;_blank&quot;&gt;Socure&lt;/a&gt; and former Chief of Staff at the US Office of Management and Budget to talk about digital identity and the impact it can have on the delivery of public services.&lt;/p&gt;
-
-&lt;p&gt;Join us on &lt;a href=&quot;https://discord.gg/hECzBJh&quot; target=&quot;_blank&quot;&gt;Discord&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1275302296%3Fsecret_token%3Ds-dIGbVBOuszm&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/76-digital-identity-and-services-delivery/&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot; target=&quot;_blank&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6Mzg4NTYyNjc2L3NvdW5kcy5yc3M?sa=X&amp;amp;ved=2ahUKEwjTu5ay5bHwAhUbUc0KHXJEA1UQ9sEGegQIARAC&quot; target=&quot;_blank&quot;&gt;📱 Listen on Google Podcasts&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/1kbwPAi4thGOU43xFkehgT&quot; target=&quot;_blank&quot;&gt;📱 Listen on Spotify&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/public-sector-future/id1552507257&quot; target=&quot;_blank&quot;&gt;Public Sector Future Podcast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
-
-</description>
-        <pubDate>Wed, 25 May 2022 00:00:00 -0500</pubDate>
-        <link>https://civictech.chat/2022/05/digital-identity-and-services-delivery</link>
-        <guid isPermaLink="true">https://civictech.chat/2022/05/digital-identity-and-services-delivery</guid>
-        
-        <category>civictech</category>
-        
-        <category>government</category>
-        
-        <category>digital services</category>
-        
-        <category>technology</category>
-        
-        <category>digital identity</category>
-        
-        <category>cyber security</category>
-        
-        <category>policy</category>
-        
-        <category>services delivery</category>
         
         
         <category>podcast</category>
