@@ -6,9 +6,52 @@
 </description>
     <link>https://civictech.chat/</link>
     <atom:link href="https://civictech.chat/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jan 2025 04:45:02 -0600</pubDate>
-    <lastBuildDate>Tue, 21 Jan 2025 04:45:02 -0600</lastBuildDate>
+    <pubDate>Thu, 20 Feb 2025 04:29:22 -0600</pubDate>
+    <lastBuildDate>Thu, 20 Feb 2025 04:29:22 -0600</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>93 Building an accessible web 🌐</title>
+        <description>&lt;p&gt;We’re joined by &lt;a href=&quot;https://www.linkedin.com/in/mgifford&quot; target=&quot;_blank&quot;&gt;Mike Gifford&lt;/a&gt;, Open Standards and Practice Lead at CivicActions. We’ll dig deep into what it takes to build accessible web services and why that effort is so important.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2038429188&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754&quot; title=&quot;Civic Tech Chat&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Civic Tech Chat&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/user-227289754/93-building-an-accessible-web&quot; title=&quot;93 Building an accessible web&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;93 Building an accessible web&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/93-building-an-accessible-web?si=ef8989bf421f4c2aaefa81ce7b42023f&amp;amp;utm_source=clipboard&amp;amp;utm_medium=text&amp;amp;utm_campaign=social_sharing&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot; target=&quot;_blank&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL5NEPB2T3Hb-HpMbDW0PnXUCODdtIUjNl&quot; target=&quot;_blank&quot;&gt;📱 Listen on YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/1kbwPAi4thGOU43xFkehgT&quot; target=&quot;_blank&quot;&gt;📱 Listen on Spotify&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://almanac.httparchive.org/en/2024/accessibility&quot; target=&quot;_blank&quot;&gt;Accessibility Chapter of the Web Almanac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: Tumbleweeds by Monkey Warhol&lt;/h5&gt;
+</description>
+        <pubDate>Thu, 20 Feb 2025 00:00:00 -0600</pubDate>
+        <link>https://civictech.chat/2025/02/building-an-accessible-web</link>
+        <guid isPermaLink="true">https://civictech.chat/2025/02/building-an-accessible-web</guid>
+        
+        <category>civictech</category>
+        
+        <category>episode</category>
+        
+        <category>government</category>
+        
+        <category>web development</category>
+        
+        <category>design</category>
+        
+        <category>accessibility</category>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>92 Archives: Hack Your Bureacracy 🏢</title>
@@ -389,47 +432,6 @@ Hello, I'm Ryan Koch. And this is civic tech chat show that looks at the way tec
         <category>bureaucracy hacking</category>
         
         <category>government</category>
-        
-        
-        <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>Re-release: Discovery Sprints 🏃‍♀️</title>
-        <description>&lt;p&gt;We’re pulling one out of the archives to start off 2023!&lt;/p&gt;
-
-&lt;p&gt;This time we talk discovery sprints! We’re joined by &lt;a href=&quot;https://www.linkedin.com/in/actuallyjenn/&quot; target=&quot;_blank&quot;&gt;Jenn Noinaj&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/kathrynjurick/&quot; target=&quot;_blank&quot;&gt;Kathryn Jurick&lt;/a&gt;, authors of the United States Digital Service guide to discovery sprints. We’ll chat about what these are, how they’re run, and how they can help.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;75&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1431118792%3Fsecret_token%3Ds-aSMoGkqAmRW&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/user-227289754/83-discovery-sprints-re-release/&quot; target=&quot;_blank&quot;&gt;🎧 Listen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/civic-tech-chat/id1350640468?mt=2&quot; target=&quot;_blank&quot;&gt;📱 Listen on iTunes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://play.google.com/music/listen?u=0#/ps/I2inksjzzzmbxhg5wbojr624doa&quot; target=&quot;_blank&quot;&gt;📱 Listen on Google Music&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/1kbwPAi4thGOU43xFkehgT&quot; target=&quot;_blank&quot;&gt;📱 Listen on Spotify&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;resources-and-shoutouts&quot;&gt;Resources and Shoutouts:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sprint.usds.gov/&quot; target=&quot;_blank&quot;&gt;USDS Discovery Sprint Guide&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;music-credit-tumbleweeds-by-monkey-warhol&quot;&gt;Music Credit: &lt;a href=&quot;http://freemusicarchive.org/music/Monkey_Warhol/Lonely_Hearts_Challenge/Monkey_Warhol_-_Tumbleweeds&quot; target=&quot;_blank&quot;&gt;Tumbleweeds by Monkey Warhol&lt;/a&gt;&lt;/h5&gt;
-</description>
-        <pubDate>Mon, 23 Jan 2023 00:00:00 -0600</pubDate>
-        <link>https://civictech.chat/2023/01/discovery-sprints-rerelease</link>
-        <guid isPermaLink="true">https://civictech.chat/2023/01/discovery-sprints-rerelease</guid>
-        
-        <category>civictech</category>
-        
-        <category>episode</category>
-        
-        <category>discovery</category>
-        
-        <category>research</category>
-        
-        <category>USDS</category>
         
         
         <category>podcast</category>
