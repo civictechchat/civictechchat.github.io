@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Nexperia Crises 🚢"
-description: "100"
+description: "101"
 category: "podcast"
 tags: ["civictech", "episode", "government", "supply chain", "chips", "hardware", "geopolitics", "trade"]
 comments: true
