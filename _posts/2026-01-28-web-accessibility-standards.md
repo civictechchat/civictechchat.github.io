@@ -3,7 +3,7 @@ layout: post
 title: "Web Accessibility Standards 🌐"
 description: "102"
 category: "podcast"
-tags: ["civictech", "episode", "government", "supply chain", "chips", "hardware", "geopolitics", "trade"]
+tags: ["civictech", "episode", "government", "design", "accessibility", "research"]
 comments: true
 ---
 
